@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "SimpleTop",
+  "version": "1.0.0",
+  "description": "display day and time on the simple page",
+  "chrome_url_overrides" : {
+    "newtab": "newtab.html"
+  }
+}
